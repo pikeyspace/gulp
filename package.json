@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/pikeyspace/gulp/issues"
   },
-  "homepage": "https://github.com/pikeyspace/gulp#readme"
+  "homepage": "https://github.com/pikeyspace/gulp#readme",
+  "dependencies": {
+    "gulp-install": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.60.0"
+  }
 }
